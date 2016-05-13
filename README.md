@@ -14,8 +14,12 @@ douban_reviews is a simple spider to crawl reviews of a movie on douban.com(url=
 * review_useful	有用数
 * review_unuserful	无用数
 
-#### start spider
+#### start spider:
 `scrapy crawl douban`
+
+#### results：
+![image](douban_reviews/img/003.jpg)
+![image](douban_reviews/img/004.jpg)
 
 
 
