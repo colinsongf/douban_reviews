@@ -18,8 +18,8 @@ douban_reviews is a simple spider to crawl reviews of a movie on douban.com(url=
 `scrapy crawl douban`
 
 #### results：
-![image](douban_reviews/img/003.jpg)
-![image](douban_reviews/img/004.jpg)
+![image](https://github.com/hoikin-yiu/douban_reviews/blob/master/img/003.jpg)
+![image](https://github.com/hoikin-yiu/douban_reviews/blob/master/img/004.jpg)
 
 
 
